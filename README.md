@@ -34,7 +34,7 @@ git clone https://github.com/YourUsername/stopwatch-webapp.git
 🤝 Acknowledgement
 This project is part of my SkillCraft Technology Internship.
 Thanks to the mentors and team at #SkillCraftTechnology for guidance and support.
-📬 Connect with Me
+📬 Connect with Me and Tell your Ideas
 LinkedIn: Tejas Vilas Kondhalkar - https://www.linkedin.com/in/tejas-vilas-kondhalkar-98a9b41b1
 GitHub: TejasTechluxverse7 - https://github.com/TejasTechluxverse7
 
